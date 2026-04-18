@@ -7,6 +7,8 @@ The **Learning Management System (LMS)** is a full-stack web application built u
 Admins can efficiently manage users, courses, and content through a secure dashboard.
 
 ---
+<img width="1906" height="900" alt="Screenshot 2026-04-17 023833" src="https://github.com/user-attachments/assets/346716b8-6d08-4a77-90a0-cc849478c5d6" />
+
 
 ## 🚀 Features
 
