@@ -1,0 +1,83 @@
+# =========================
+# 🔐 Environment Variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# 📦 Node Modules
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# 🏗 Build Files
+# =========================
+build/
+dist/
+.next/
+out/
+
+# =========================
+# ⚙️ Logs
+# =========================
+logs
+*.log
+
+# =========================
+# 💻 OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# 🧠 IDE / Editor Files
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# 🔑 Backend Sensitive Files
+# =========================
+Backend/.env
+Backend/config/secrets.js
+
+# =========================
+# 🎨 Frontend Sensitive Files
+# =========================
+Frontend/.env
+
+# =========================
+# 📁 Uploads / Temp Files
+# =========================
+uploads/
+tmp/
+temp/
+
+# =========================
+# 🧪 Testing
+# =========================
+coverage/
+
+# =========================
+# 🐳 Docker (if used)
+# =========================
+.dockerignore
+Dockerfile*
+
+# =========================
+# 🔄 Cache Files
+# =========================
+.cache/
+.parcel-cache/
+
+# =========================
+# 🧾 Misc
+# =========================
+*.pem
+*.key
