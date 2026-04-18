@@ -139,12 +139,12 @@ WEBHOOK_ENDPOINT_SECRET = wshl-asdfasdfasdsdfasdfa
 ---
 ## 👨‍💻 Developer
 
-**Virendra Kumar**
-BCA Final Year Student
-Course: BCA-3rd Year
-College id : 445-11397
-College Name : Cimage College Patna
-Full Stack MERN Developer (Learning Phase)
+**Virendra Kumar** <br/>
+   BCA Final Year Student <br/>
+   Course: BCA-3rd Year <br/>
+   College id : 445-11397 <br/>
+   College Name : Cimage College Patna <br/>
+   Full Stack MERN Developer (Learning Phase)
 
 ---
 
