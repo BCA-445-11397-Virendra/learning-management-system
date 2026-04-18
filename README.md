@@ -90,7 +90,7 @@ LMS-Project/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/lms-mern-platform.git
+git clone https://github.com/BCA-445-11397-Virendra/learning-management-system.git
 ```
 
 ### 2️⃣ Backend Setup
